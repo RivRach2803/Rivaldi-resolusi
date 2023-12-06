@@ -2,7 +2,8 @@ Rencana Kehidupan
 
 - Menabung 
   * perbulan
+   ^ 3 bulan sekali
+   ^ 6 bulan sekali
   * pertahun
 - punya website pribadi
 - punya rumah
-- keluarga harmonis
