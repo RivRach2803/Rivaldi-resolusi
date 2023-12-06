@@ -2,6 +2,7 @@ Rencana Kehidupan
 
 - Menabung 
   * perbulan
+   ^ 3 bulan sekali
   * pertahun
    ^ 5 tahun sekali
 - punya website pribadi
